@@ -1,6 +1,6 @@
 # Hangman CLI
 
-This is a practice app I developed while learning Python.
+This is a practice app I developed while learning Python. It runs on teh command line.
 
 ## Aim of the game
 
